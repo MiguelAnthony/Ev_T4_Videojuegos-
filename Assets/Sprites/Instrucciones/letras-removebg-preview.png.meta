@@ -1,0 +1,682 @@
+fileFormatVersion: 2
+guid: d12eb4528d5a1d54d9a3c8a00bb63742
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4184871291221393586
+    second: letras-removebg-preview_0
+  - first:
+      213: 8077084444895490781
+    second: letras-removebg-preview_1
+  - first:
+      213: -2413368001108882289
+    second: letras-removebg-preview_2
+  - first:
+      213: -6266725619612643191
+    second: letras-removebg-preview_3
+  - first:
+      213: -1992417584940458097
+    second: letras-removebg-preview_4
+  - first:
+      213: 3219032846056073515
+    second: letras-removebg-preview_5
+  - first:
+      213: -324685381324071939
+    second: letras-removebg-preview_6
+  - first:
+      213: -572675545235693871
+    second: letras-removebg-preview_7
+  - first:
+      213: -7596414246099111375
+    second: letras-removebg-preview_8
+  - first:
+      213: 6293427883595740365
+    second: letras-removebg-preview_9
+  - first:
+      213: 5569039001924097660
+    second: letras-removebg-preview_10
+  - first:
+      213: -188784098193838788
+    second: letras-removebg-preview_11
+  - first:
+      213: -4858628317852837053
+    second: letras-removebg-preview_12
+  - first:
+      213: -5095690115773090230
+    second: letras-removebg-preview_13
+  - first:
+      213: -3436340300951701510
+    second: letras-removebg-preview_14
+  - first:
+      213: 3198484399332907865
+    second: letras-removebg-preview_15
+  - first:
+      213: -6066941587837302661
+    second: letras-removebg-preview_16
+  - first:
+      213: 7226346286418235725
+    second: letras-removebg-preview_17
+  - first:
+      213: 186302041663901759
+    second: letras-removebg-preview_18
+  - first:
+      213: 4096388033264129109
+    second: letras-removebg-preview_19
+  - first:
+      213: 7567359843542961759
+    second: letras-removebg-preview_20
+  - first:
+      213: -6087377553523991377
+    second: letras-removebg-preview_21
+  - first:
+      213: 8159434571011499747
+    second: letras-removebg-preview_22
+  - first:
+      213: -6054564479946091976
+    second: letras-removebg-preview_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: letras-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b04bf75446a31a30800000000000000
+      internalID: 4184871291221393586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 85
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd234d62281971070800000000000000
+      internalID: 8077084444895490781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 85
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c4c9de69ef18ed0800000000000000
+      internalID: -2413368001108882289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 85
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9801622604e1809a0800000000000000
+      internalID: -6266725619612643191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 85
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fd16543c28954e0800000000000000
+      internalID: -1992417584940458097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 85
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ac7d715d4cac20800000000000000
+      internalID: 3219032846056073515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 85
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb9a6ead5c7e7bf0800000000000000
+      internalID: -324685381324071939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de5ca230a27d08f0800000000000000
+      internalID: -572675545235693871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132bb8e9d7d149690800000000000000
+      internalID: -7596414246099111375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 42
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4334de05fb65750800000000000000
+      internalID: 6293427883595740365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 42
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c765bf95773394d40800000000000000
+      internalID: 5569039001924097660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 42
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3de9e7ecdd416df0800000000000000
+      internalID: -188784098193838788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 42
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b5aba794fa29cb0800000000000000
+      internalID: -4858628317852837053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 42
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4630eb76d87849b0800000000000000
+      internalID: -5095690115773090230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 42
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af73a6ae3baaf40d0800000000000000
+      internalID: -3436340300951701510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 42
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bddd96d9c436c20800000000000000
+      internalID: 3198484399332907865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78c9e715c4edcba0800000000000000
+      internalID: -6066941587837302661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d411ce129a3294460800000000000000
+      internalID: 7226346286418235725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f309e4648b0e59200800000000000000
+      internalID: 186302041663901759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5549ed0763b49d830800000000000000
+      internalID: 4096388033264129109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e0fe12fa9a40960800000000000000
+      internalID: 7567359843542961759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac148c0e5a458ba0800000000000000
+      internalID: -6087377553523991377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6ae2503822c3170800000000000000
+      internalID: 8159434571011499747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8329d171fadd9fba0800000000000000
+      internalID: -6054564479946091976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

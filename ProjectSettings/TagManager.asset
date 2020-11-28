@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arrow001
+  - tree002
+  - golbin
+  - ogre
+  - Knight
+  - Minotaur1
+  - orco
+  - minotauro
+  - minotauro2
+  - minotauro3
+  - alien1
+  - alien2
+  - alien3
+  - ground
+  - Caja
+  - escalera
+  - water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemigo
+  - Obstaculo
+  - EnemigoMovible
+  - Caja
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
